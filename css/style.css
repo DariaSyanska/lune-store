@@ -1683,7 +1683,7 @@ footer {
 /* ─── Checkout Page ─────────────────────────────────────────────────────── */
 
 .checkout-section {
-  padding: 80px 0 120px;
+  padding: 80px 40px 120px;
 }
 
 .small-link {
@@ -1694,14 +1694,12 @@ footer {
   display: grid;
   grid-template-columns: 1.5fr 1fr;
   gap: 100px;
-  padding: 40px 0;
   align-items: start;
   padding: 60px 0;
 }
 
 .checkout-forms {
   min-width: 0;
-  padding-right: 20px;
 }
 
 .checkout-summary {
