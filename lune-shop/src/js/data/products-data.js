@@ -25,37 +25,37 @@ export const PRODUCTS = [
       {
         id: "silk-dress-ivory",
         color: "ivory",
-        img: "/images/silk-dress.jpg",
+        img: "/images/silk-dress.webp",
       },
       {
         id: "silk-dress-black",
         color: "black",
-        img: "/images/silk-dress-2.jpg",
+        img: "/images/silk-dress-2.webp",
       },
       {
         id: "silk-dress-violet",
         color: "violet",
-        img: "/images/silk-dress-3.jpg",
+        img: "/images/silk-dress-3.webp",
       },
       {
         id: "silk-dress-pink",
         color: "pink",
-        img: "/images/silk-dress-4.jpg",
+        img: "/images/silk-dress-4.webp",
       },
       {
         id: "silk-dress-blue",
         color: "blue",
-        img: "/images/silk-dress-5.jpg",
+        img: "/images/silk-dress-5.webp",
       },
       {
         id: "silk-dress-yellow",
         color: "yellow",
-        img: "/images/silk-dress-6.jpg",
+        img: "/images/silk-dress-6.webp",
       },
       {
         id: "silk-dress-teal",
         color: "teal",
-        img: "/images/silk-dress-7.jpg",
+        img: "/images/silk-dress-7.webp",
       },
     ],
 
@@ -77,12 +77,12 @@ export const PRODUCTS = [
       {
         id: "linen-trench-ivory",
         color: "ivory",
-        img: "/images/linen-trench.jpg",
+        img: "/images/linen-trench.webp",
       },
       {
         id: "linen-trench-black",
         color: "black",
-        img: "/images/linen-trench-2.jpg",
+        img: "/images/linen-trench-2.webp",
       },
     ],
 
@@ -104,32 +104,32 @@ export const PRODUCTS = [
       {
         id: "cashmere-knit-ivory",
         color: "ivory",
-        img: "/images/cashmere-knit.jpg",
+        img: "/images/cashmere-knit.webp",
       },
       {
         id: "cashmere-knit-black",
         color: "black",
-        img: "/images/cashmere-knit-2.jpg",
+        img: "/images/cashmere-knit-2.webp",
       },
       {
         id: "cashmere-knit-violet",
         color: "violet",
-        img: "/images/cashmere-knit-3.jpg",
+        img: "/images/cashmere-knit-3.webp",
       },
       {
         id: "cashmere-knit-pink",
         color: "pink",
-        img: "/images/cashmere-knit-4.jpg",
+        img: "/images/cashmere-knit-4.webp",
       },
       {
         id: "cashmere-knit-blue",
         color: "blue",
-        img: "/images/cashmere-knit-5.jpg",
+        img: "/images/cashmere-knit-5.webp",
       },
       {
         id: "cashmere-knit-yellow",
         color: "yellow",
-        img: "/images/cashmere-knit-6.jpg",
+        img: "/images/cashmere-knit-6.webp",
       },
     ],
 
@@ -151,22 +151,22 @@ export const PRODUCTS = [
       {
         id: "cardigan-ivory",
         color: "ivory",
-        img: "/images/cashmere-cardigan.jpg",
+        img: "/images/cashmere-cardigan.webp",
       },
       {
         id: "cardigan-black",
         color: "black",
-        img: "/images/cashmere-cardigan-2.jpg",
+        img: "/images/cashmere-cardigan-2.webp",
       },
       {
         id: "cardigan-violet",
         color: "violet",
-        img: "/images/cashmere-cardigan-3.jpg",
+        img: "/images/cashmere-cardigan-3.webp",
       },
       {
         id: "cardigan-pink",
         color: "pink",
-        img: "/images/cashmere-cardigan-4.jpg",
+        img: "/images/cashmere-cardigan-4.webp",
       },
     ],
 
@@ -189,27 +189,27 @@ export const PRODUCTS = [
       {
         id: "turtleneck-ivory",
         color: "ivory",
-        img: "/images/knit-turtleneck.jpg",
+        img: "/images/knit-turtleneck.webp",
       },
       {
         id: "turtleneck-black",
         color: "black",
-        img: "/images/knit-turtleneck-2.jpg",
+        img: "/images/knit-turtleneck-2.webp",
       },
       {
         id: "turtleneck-violet",
         color: "violet",
-        img: "/images/knit-turtleneck-3.jpg",
+        img: "/images/knit-turtleneck-3.webp",
       },
       {
         id: "turtleneck-pink",
         color: "pink",
-        img: "/images/knit-turtleneck-4.jpg",
+        img: "/images/knit-turtleneck-4.webp",
       },
       {
         id: "turtleneck-blue",
         color: "blue",
-        img: "/images/knit-turtleneck-5.jpg",
+        img: "/images/knit-turtleneck-5.webp",
       },
     ],
 
@@ -231,17 +231,17 @@ export const PRODUCTS = [
       {
         id: "trousers-ivory",
         color: "ivory",
-        img: "/images/wide-leg-trousers.jpg",
+        img: "/images/wide-leg-trousers.webp",
       },
       {
         id: "trousers-black",
         color: "black",
-        img: "/images/wide-leg-trousers-2.jpg",
+        img: "/images/wide-leg-trousers-2.webp",
       },
       {
         id: "trousers-violet",
         color: "violet",
-        img: "/images/wide-leg-trousers-3.jpg",
+        img: "/images/wide-leg-trousers-3.webp",
       },
     ],
 
@@ -263,37 +263,37 @@ export const PRODUCTS = [
       {
         id: "top-ivory",
         color: "ivory",
-        img: "/images/silk-top.jpg",
+        img: "/images/silk-top.webp",
       },
       {
         id: "top-black",
         color: "black",
-        img: "/images/silk-top-2.jpg",
+        img: "/images/silk-top-2.webp",
       },
       {
         id: "top-violet",
         color: "violet",
-        img: "/images/silk-top-3.jpg",
+        img: "/images/silk-top-3.webp",
       },
       {
         id: "top-pink",
         color: "pink",
-        img: "/images/silk-top-4.jpg",
+        img: "/images/silk-top-4.webp",
       },
       {
         id: "top-blue",
         color: "blue",
-        img: "/images/silk-top-5.jpg",
+        img: "/images/silk-top-5.webp",
       },
       {
         id: "top-yellow",
         color: "yellow",
-        img: "/images/silk-top-6.jpg",
+        img: "/images/silk-top-6.webp",
       },
       {
         id: "top-teal",
         color: "teal",
-        img: "/images/silk-top-7.jpg",
+        img: "/images/silk-top-7.webp",
       },
     ],
 
@@ -315,22 +315,22 @@ export const PRODUCTS = [
       {
         id: "shirt-ivory",
         color: "ivory",
-        img: "/images/linen-shirt.jpg",
+        img: "/images/linen-shirt.webp",
       },
       {
         id: "shirt-black",
         color: "black",
-        img: "/images/linen-shirt-2.jpg",
+        img: "/images/linen-shirt-2.webp",
       },
       {
         id: "shirt-blue",
         color: "blue",
-        img: "/images/linen-shirt-5.jpg",
+        img: "/images/linen-shirt-5.webp",
       },
       {
         id: "shirt-teal",
         color: "teal",
-        img: "/images/linen-shirt-7.jpg",
+        img: "/images/linen-shirt-7.webp",
       },
     ],
 
@@ -352,37 +352,37 @@ export const PRODUCTS = [
       {
         id: "blazer-ivory",
         color: "ivory",
-        img: "/images/satin-blazer.jpg",
+        img: "/images/satin-blazer.webp",
       },
       {
         id: "blazer-black",
         color: "black",
-        img: "/images/satin-blazer-2.jpg",
+        img: "/images/satin-blazer-2.webp",
       },
       {
         id: "blazer-violet",
         color: "violet",
-        img: "/images/satin-blazer-3.jpg",
+        img: "/images/satin-blazer-3.webp",
       },
       {
         id: "blazer-pink",
         color: "pink",
-        img: "/images/satin-blazer-4.jpg",
+        img: "/images/satin-blazer-4.webp",
       },
       {
         id: "blazer-blue",
         color: "blue",
-        img: "/images/satin-blazer-5.jpg",
+        img: "/images/satin-blazer-5.webp",
       },
       {
         id: "blazer-yellow",
         color: "yellow",
-        img: "/images/satin-blazer-6.jpg",
+        img: "/images/satin-blazer-6.webp",
       },
       {
         id: "blazer-teal",
         color: "teal",
-        img: "/images/satin-blazer-7.jpg",
+        img: "/images/satin-blazer-7.webp",
       },
     ],
 
@@ -404,32 +404,32 @@ export const PRODUCTS = [
       {
         id: "blouse-ivory",
         color: "ivory",
-        img: "/images/silk-blouse.jpg",
+        img: "/images/silk-blouse.webp",
       },
       {
         id: "blouse-black",
         color: "black",
-        img: "/images/silk-blouse-2.jpg",
+        img: "/images/silk-blouse-2.webp",
       },
       {
         id: "blouse-violet",
         color: "violet",
-        img: "/images/silk-blouse-3.jpg",
+        img: "/images/silk-blouse-3.webp",
       },
       {
         id: "blouse-pink",
         color: "pink",
-        img: "/images/silk-blouse-4.jpg",
+        img: "/images/silk-blouse-4.webp",
       },
       {
         id: "blouse-blue",
         color: "blue",
-        img: "/images/silk-blouse-5.jpg",
+        img: "/images/silk-blouse-5.webp",
       },
       {
         id: "blouse-teal",
         color: "teal",
-        img: "/images/silk-blouse-7.jpg",
+        img: "/images/silk-blouse-7.webp",
       },
     ],
 
@@ -451,37 +451,37 @@ export const PRODUCTS = [
       {
         id: "skirt-ivory",
         color: "ivory",
-        img: "/images/slip-skirt.jpg",
+        img: "/images/slip-skirt.webp",
       },
       {
         id: "skirt-black",
         color: "black",
-        img: "/images/slip-skirt-2.jpg",
+        img: "/images/slip-skirt-2.webp",
       },
       {
         id: "skirt-violet",
         color: "violet",
-        img: "/images/slip-skirt-3.jpg",
+        img: "/images/slip-skirt-3.webp",
       },
       {
         id: "skirt-pink",
         color: "pink",
-        img: "/images/slip-skirt-4.jpg",
+        img: "/images/slip-skirt-4.webp",
       },
       {
         id: "skirt-blue",
         color: "blue",
-        img: "/images/slip-skirt-5.jpg",
+        img: "/images/slip-skirt-5.webp",
       },
       {
         id: "skirt-yellow",
         color: "yellow",
-        img: "/images/slip-skirt-6.jpg",
+        img: "/images/slip-skirt-6.webp",
       },
       {
         id: "skirt-teal",
         color: "teal",
-        img: "/images/slip-skirt-7.jpg",
+        img: "/images/slip-skirt-7.webp",
       },
     ],
 
@@ -503,22 +503,22 @@ export const PRODUCTS = [
       {
         id: "scarf-ivory",
         color: "ivory",
-        img: "/images/silk-scarf.jpg",
+        img: "/images/silk-scarf.webp",
       },
       {
         id: "scarf-violet",
         color: "violet",
-        img: "/images/silk-scarf-3.jpg",
+        img: "/images/silk-scarf-3.webp",
       },
       {
         id: "scarf-pink",
         color: "pink",
-        img: "/images/silk-scarf-4.jpg",
+        img: "/images/silk-scarf-4.webp",
       },
       {
         id: "scarf-teal",
         color: "teal",
-        img: "/images/silk-scarf-7.jpg",
+        img: "/images/silk-scarf-7.webp",
       },
     ],
 
@@ -540,12 +540,12 @@ export const PRODUCTS = [
       {
         id: "belt-ivory",
         color: "ivory",
-        img: "/images/leather-belt.jpg",
+        img: "/images/leather-belt.webp",
       },
       {
         id: "belt-black",
         color: "black",
-        img: "/images/leather-belt-2.jpg",
+        img: "/images/leather-belt-2.webp",
       },
     ],
 
@@ -567,22 +567,22 @@ export const PRODUCTS = [
       {
         id: "beanie-ivory",
         color: "ivory",
-        img: "/images/cashmere-beanie.jpg",
+        img: "/images/cashmere-beanie.webp",
       },
       {
         id: "beanie-black",
         color: "black",
-        img: "/images/cashmere-beanie-2.jpg",
+        img: "/images/cashmere-beanie-2.webp",
       },
       {
         id: "beanie-blue",
         color: "blue",
-        img: "/images/cashmere-beanie-5.jpg",
+        img: "/images/cashmere-beanie-5.webp",
       },
       {
         id: "beanie-yellow",
         color: "yellow",
-        img: "/images/cashmere-beanie-6.jpg",
+        img: "/images/cashmere-beanie-6.webp",
       },
     ],
 
@@ -604,7 +604,7 @@ export const PRODUCTS = [
       {
         id: "hoops-ivory",
         color: "ivory",
-        img: "/images/silver-hoops.jpg",
+        img: "/images/silver-hoops.webp",
       },
     ],
 
@@ -626,7 +626,7 @@ export const PRODUCTS = [
       {
         id: "necklace-yellow",
         color: "yellow",
-        img: "/images/gold-necklace-6.jpg",
+        img: "/images/gold-necklace-6.webp",
       },
     ],
 
@@ -648,7 +648,7 @@ export const PRODUCTS = [
       {
         id: "tote-ivory",
         color: "ivory",
-        img: "/images/canvas-tote.jpg",
+        img: "/images/canvas-tote.webp",
       },
     ],
 
@@ -670,7 +670,7 @@ export const PRODUCTS = [
       {
         id: "leather-tote-black",
         color: "black",
-        img: "/images/leather-tote-2.jpg",
+        img: "/images/leather-tote-2.webp",
       },
     ],
 

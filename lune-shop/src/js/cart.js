@@ -34,8 +34,11 @@ function escapeHTML(str = "") {
 }
 
 function normalizeImgSrc(src = "") {
-  const s = String(src);
+  let s = String(src);
   if (!s) return "";
+
+  s = s.replace(/\.(jpg|jpeg|png)$/i, ".webp");
+
   if (s.startsWith("http") || s.startsWith("/")) return s;
   return `/${s}`;
 }
@@ -79,7 +82,7 @@ export function initCart() {
           ) || 189,
         img:
           document.getElementById("product-main-img")?.getAttribute("src") ||
-          "/images/silk-dress.jpg",
+          "/images/silk-dress.webp",
         variant:
           document
             .querySelector(".color-options .active")
@@ -233,7 +236,7 @@ export function addToCart(item) {
       id: String(item.id),
       title: item.title || "Lune Piece",
       price: Number(item.price) || 0,
-      img: item.img || "/images/placeholder.jpg",
+      img: item.img || "/images/placeholder.webp",
       variant: variant,
       quantity: quantity,
     });

@@ -27,41 +27,41 @@ A modern minimalist fashion e-commerce platform built with high-performance web 
 
 ### 🌗 Themes & Overview
 
-| Dark Mode                                     | Light Mode                                      |
-| :-------------------------------------------- | :---------------------------------------------- |
-| ![Dark Preview](screenshots/preview-dark.jpg) | ![Light Preview](screenshots/preview-light.jpg) |
+| Dark Mode                                      | Light Mode                                       |
+| :--------------------------------------------- | :----------------------------------------------- |
+| ![Dark Preview](screenshots/preview-dark.webp) | ![Light Preview](screenshots/preview-light.webp) |
 
 ### 🛍 Shopping Experience
 
-| Catalog                       | Product Modal                   | Size Chart                                | Wishlist                              |
-| :---------------------------- | :------------------------------ | :---------------------------------------- | :------------------------------------ |
-| ![Shop](screenshots/shop.jpg) | ![Modal](screenshots/modal.jpg) | ![Size Chart](screenshots/size-chart.jpg) | ![Wishlist](screenshots/wishlist.jpg) |
+| Catalog                        | Product Modal                    | Size Chart                                 | Wishlist                               |
+| :----------------------------- | :------------------------------- | :----------------------------------------- | :------------------------------------- |
+| ![Shop](screenshots/shop.webp) | ![Modal](screenshots/modal.webp) | ![Size Chart](screenshots/size-chart.webp) | ![Wishlist](screenshots/wishlist.webp) |
 
-| Cart                          | Checkout                              | Shipping                              |
-| :---------------------------- | :------------------------------------ | :------------------------------------ |
-| ![Cart](screenshots/cart.jpg) | ![Checkout](screenshots/checkout.jpg) | ![Shipping](screenshots/shipping.jpg) |
+| Cart                           | Checkout                               | Shipping                               |
+| :----------------------------- | :------------------------------------- | :------------------------------------- |
+| ![Cart](screenshots/cart.webp) | ![Checkout](screenshots/checkout.webp) | ![Shipping](screenshots/shipping.webp) |
 
 ### 👤 Account & Access
 
-| My Account                          | Login                           | QR ID                     |
-| :---------------------------------- | :------------------------------ | :------------------------ |
-| ![Account](screenshots/account.jpg) | ![Login](screenshots/login.jpg) | ![QR](screenshots/qr.jpg) |
+| My Account                           | Login                            | QR ID                      |
+| :----------------------------------- | :------------------------------- | :------------------------- |
+| ![Account](screenshots/account.webp) | ![Login](screenshots/login.webp) | ![QR](screenshots/qr.webp) |
 
 ### ℹ️ Information & Legal
 
-| About                           | Contact                             | Privacy                                    | Terms                           | Conditions                                |
-| :------------------------------ | :---------------------------------- | :----------------------------------------- | :------------------------------ | :---------------------------------------- |
-| ![About](screenshots/about.jpg) | ![Contact](screenshots/contact.jpg) | ![Privacy](screenshots/privacy-policy.jpg) | ![Terms](screenshots/terms.jpg) | ![Conditions](screenshots/conditions.jpg) |
+| About                            | Contact                                 | Privacy                                     | Terms                            | Conditions                                 |
+| :------------------------------- | :-------------------------------------- | :------------------------------------------ | :------------------------------- | :----------------------------------------- |
+| ![About](screenshots/about.webp) | ![Contact](screenshots/contact.jwebppg) | ![Privacy](screenshots/privacy-policy.webp) | ![Terms](screenshots/terms.webp) | ![Conditions](screenshots/conditions.webp) |
 
 ### 📱 Mobile Experience
 
-| Home (Light)                                     | Home (Dark)                                    | Navigation                                       | Shop                                     |
-| :----------------------------------------------- | :--------------------------------------------- | :----------------------------------------------- | :--------------------------------------- |
-| ![Home Light](screenshots/mobile-home-light.jpg) | ![Home Dark](screenshots/mobile-home-dark.jpg) | ![Navigation](screenshots/mobile-navigation.jpg) | ![Shop 1](screenshots/mobile-shop-1.jpg) |
+| Home (Light)                                      | Home (Dark)                                     | Navigation                                        | Shop                                      |
+| :------------------------------------------------ | :---------------------------------------------- | :------------------------------------------------ | :---------------------------------------- |
+| ![Home Light](screenshots/mobile-home-light.webp) | ![Home Dark](screenshots/mobile-home-dark.webp) | ![Navigation](screenshots/mobile-navigation.webp) | ![Shop 1](screenshots/mobile-shop-1.webp) |
 
-| Shop Details                             | Wishlist                                     | Cart                                 |
-| :--------------------------------------- | :------------------------------------------- | :----------------------------------- |
-| ![Shop 2](screenshots/mobile-shop-2.jpg) | ![Wishlist](screenshots/mobile-wishlist.jpg) | ![Cart](screenshots/mobile-cart.jpg) |
+| Shop Details                              | Wishlist                                      | Cart                                  |
+| :---------------------------------------- | :-------------------------------------------- | :------------------------------------ |
+| ![Shop 2](screenshots/mobile-shop-2.webp) | ![Wishlist](screenshots/mobile-wishlist.webp) | ![Cart](screenshots/mobile-cart.webp) |
 
 ## 📂 Project Structure
 

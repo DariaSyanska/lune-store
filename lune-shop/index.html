@@ -12,7 +12,7 @@
       property="og:description"
       content="High-end minimal fashion inspired by moonlight."
     />
-    <meta property="og:image" content="/images/preview.jpg" />
+    <meta property="og:image" content="/images/preview.webp" />
     <meta property="og:type" content="website" />
     <title>Lune | High-End Minimalism</title>
 
@@ -31,7 +31,12 @@
       href="/images/favicon-dark.png"
       id="favicon"
     />
-    <link rel="preload" as="image" href="/images/newsletter-img.jpg" />
+    <link
+      rel="preload"
+      as="image"
+      href="/images/newsletter-img.webp"
+      fetchpriority="high"
+    />
     <link rel="stylesheet" href="/src/styles/main.scss" />
     <style>
       html {
@@ -48,10 +53,11 @@
         </button>
         <div class="newsletter-image">
           <img
-            src="/images/newsletter-img.jpg"
+            src="/images/newsletter-img.webp"
             alt="Join Lune"
             width="400"
             height="500"
+            fetchpriority="high"
           />
         </div>
         <div class="newsletter-text">
@@ -79,18 +85,22 @@
       <div class="header-container">
         <a href="index.html" class="header-logo">
           <img
-            src="/images/nav-bar-dark.png"
+            src="/images/nav-bar-dark.webp"
             alt="Lune"
             class="logo-img logo-dark"
             loading="eager"
             decoding="async"
+            width="120"
+            height="40"
           />
           <img
-            src="/images/nav-bar.png"
+            src="/images/nav-bar.webp"
             alt="Lune"
             class="logo-img logo-light"
             loading="eager"
             decoding="async"
+            width="120"
+            height="40"
           />
         </a>
 
@@ -238,13 +248,14 @@
 
         <div class="hero-moon">
           <img
-            src="/images/logo-dark-shine.png"
+            src="/images/logo-dark-shine.webp"
             alt="Lune"
             class="hero-logo-dark"
-            loading="lazy"
+            loading="eager"
+            fetchpriority="high"
           />
           <img
-            src="/images/logo.png"
+            src="/images/logo.webp"
             alt="Lune"
             class="hero-logo-light"
             loading="lazy"
@@ -296,98 +307,98 @@
         <div class="marquee-track">
           <div class="marquee-item">
             <img
-              src="/images/ugc-teal.jpg"
+              src="/images/ugc-teal.webp"
               alt="Customer wearing Lune teal outfit"
               loading="lazy"
             />
           </div>
           <div class="marquee-item">
             <img
-              src="/images/ugc-black.jpg"
+              src="/images/ugc-black.webp"
               alt="Customer wearing Lune teal outfit"
               loading="lazy"
             />
           </div>
           <div class="marquee-item">
             <img
-              src="/images/ugc-yellow.jpg"
+              src="/images/ugc-yellow.webp"
               alt="Customer wearing Lune teal outfit"
               loading="lazy"
             />
           </div>
           <div class="marquee-item">
             <img
-              src="/images/ugc-purple.jpg"
+              src="/images/ugc-purple.webp"
               alt="Customer wearing Lune teal outfit"
               loading="lazy"
             />
           </div>
           <div class="marquee-item">
             <img
-              src="/images/ugc-ivory.jpg"
+              src="/images/ugc-ivory.webp"
               alt="Customer wearing Lune teal outfit"
               loading="lazy"
             />
           </div>
           <div class="marquee-item">
             <img
-              src="/images/ugc-blue.jpg"
+              src="/images/ugc-blue.webp"
               alt="Customer wearing Lune teal outfit"
               loading="lazy"
             />
           </div>
           <div class="marquee-item">
             <img
-              src="/images/ugc-pink.jpg"
+              src="/images/ugc-pink.webp"
               alt="Customer wearing Lune teal outfit"
               loading="lazy"
             />
           </div>
           <div class="marquee-item">
             <img
-              src="/images/ugc-teal.jpg"
+              src="/images/ugc-teal.webp"
               alt="Customer wearing Lune teal outfit"
               loading="lazy"
             />
           </div>
           <div class="marquee-item">
             <img
-              src="/images/ugc-black.jpg"
+              src="/images/ugc-black.webp"
               alt="Customer wearing Lune teal outfit"
               loading="lazy"
             />
           </div>
           <div class="marquee-item">
             <img
-              src="/images/ugc-yellow.jpg"
+              src="/images/ugc-yellow.webp"
               alt="Customer wearing Lune teal outfit"
               loading="lazy"
             />
           </div>
           <div class="marquee-item">
             <img
-              src="/images/ugc-purple.jpg"
+              src="/images/ugc-purple.webp"
               alt="Customer wearing Lune teal outfit"
               loading="lazy"
             />
           </div>
           <div class="marquee-item">
             <img
-              src="/images/ugc-ivory.jpg"
+              src="/images/ugc-ivory.webp"
               alt="Customer wearing Lune teal outfit"
               loading="lazy"
             />
           </div>
           <div class="marquee-item">
             <img
-              src="/images/ugc-blue.jpg"
+              src="/images/ugc-blue.webp"
               alt="Customer wearing Lune teal outfit"
               loading="lazy"
             />
           </div>
           <div class="marquee-item">
             <img
-              src="/images/ugc-pink.jpg"
+              src="/images/ugc-pink.webp"
               alt="Customer wearing Lune teal outfit"
               loading="lazy"
             />
@@ -505,7 +516,7 @@
       <div class="cart-body">
         <div class="cart-item">
           <img
-            src="/images/silk-dress.jpg"
+            src="/images/silk-dress.webp"
             alt="Silk Dress"
             class="cart-item-img"
             loading="lazy"

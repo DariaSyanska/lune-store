@@ -56,7 +56,7 @@ export function initWishlist() {
       currentColor = activeColorBtn ? activeColorBtn.dataset.color : "ivory";
       currentImg = quickAddBtn
         ? quickAddBtn.dataset.img
-        : "/images/" + productId + ".jpg";
+        : "/images/" + productId + ".webp";
     } else {
       const product = PRODUCTS.find((p) => String(p.id) === String(productId));
       currentColor = product ? product.variants[0].color : "ivory";
@@ -252,7 +252,7 @@ function renderWishlistItems() {
     .map((item) => {
       return `
         <div class="cart-item" data-id="${item.id}" data-color="${item.color}" style="display: flex; gap: 16px; padding: 16px 24px; border-bottom: 1px solid var(--color-border, rgba(255,255,255,0.05));">
-          <img src="${item.img || "/images/placeholder.jpg"}" alt="${item.title || "Lune Item"}" class="cart-item-img" style="width: 70px; height: 90px; object-fit: cover; border-radius: 2px;" />
+          <img src="${item.img || "/images/placeholder.webp"}" alt="${item.title || "Lune Item"}" class="cart-item-img" style="width: 70px; height: 90px; object-fit: cover; border-radius: 2px;" />
           <div class="cart-item-info" style="flex: 1; display: flex; flex-direction: column;">
             <div class="item-header-row" style="display: flex; justify-content: space-between; align-items: start;">
               <p class="cart-item-title" style="font-size: 14px; font-weight: 500; margin: 0;">${item.title || "Lune Item"}</p>
@@ -337,7 +337,7 @@ function renderAccountWishlist() {
           (item) => `
         <div class="product-card" style="position: relative; border: 1px solid var(--color-border); padding: 16px; background: rgba(255,255,255,0.01);">
           <div class="product-img-wrapper" style="position: relative;">
-            <img src="${item.img || "/images/placeholder.jpg"}" alt="${item.title}" style="width: 100%; aspect-ratio: 3/4; object-fit: cover; border-radius: 2px;">
+            <img src="${item.img || "/images/placeholder.webp"}" alt="${item.title}" style="width: 100%; aspect-ratio: 3/4; object-fit: cover; border-radius: 2px;">
             <button class="account-wishlist-remove" data-id="${item.id}" data-color="${item.color}" style="position: absolute; top: 8px; right: 8px; background: var(--bg-body); border: none; cursor: pointer; color: var(--color-text); padding: 6px; border-radius: 50%; display: flex; align-items: center; justify-content: center; opacity: 0.8; transition: opacity 0.3s;">
               <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1.5">
                 <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>

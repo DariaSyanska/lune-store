@@ -85,7 +85,7 @@ function renderCatalog() {
             let selectedVariant =
               p.variants && p.variants.length > 0
                 ? p.variants[0]
-                : { img: "/images/placeholder.jpg", color: "ivory" };
+                : { img: "/images/placeholder.webp", color: "ivory" };
 
             if (activeFilters.colors.length > 0 && p.variants) {
               const matched = p.variants.find((v) =>
@@ -94,14 +94,14 @@ function renderCatalog() {
               if (matched) selectedVariant = matched;
             }
 
-            const mainImg = selectedVariant.img || "/images/placeholder.jpg";
+            const mainImg = selectedVariant.img || "/images/placeholder.webp";
             const currentSubColor = selectedVariant.color || "ivory";
 
             return `
         <div class="product-card">
       <div class="product-img-wrapper">
         <div class="product-img open-product" data-id="${p.id}" style="cursor: pointer;">
-          <img src="${mainImg}" alt="${p.name}" class="catalog-main-img" loading="lazy" onerror="this.src='/images/placeholder.jpg';">
+          <img src="${mainImg}" alt="${p.name}" class="catalog-main-img" loading="lazy" onerror="this.src='/images/placeholder.webp';">
         </div>
         
         <button class="wish-btn" data-id="${p.id}" data-color="${currentSubColor}" aria-label="Add to wishlist">
