@@ -156,7 +156,7 @@ window.addEventListener("load", () => {
     });
   }
 
-  initNewsletter();
+  setTimeout(initNewsletter, 2500);
 
   function initNewsletter() {
     const newsletter = document.getElementById("newsletter-popup");
